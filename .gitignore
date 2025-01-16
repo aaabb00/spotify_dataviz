@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.cache*
+!.gitignore
+*.pyc
+.venv/
+.DS_Store
+.vscode/
+.idea/
+# Data files
+*.csv
+# Environment variables
+*.env
