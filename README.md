@@ -71,7 +71,7 @@ or tokens on any server.
 
 The App runs by default on: http://127.0.0.1:8888/
 
-`python plotly_dash_app/app.py`
+`python -m plotly_dash_app.app`
 
 
 ## Visualization interactions
