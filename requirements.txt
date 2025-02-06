@@ -1,0 +1,12 @@
+requests~=2.32.3
+python-dotenv~=1.0.1
+pandas~=2.2.3
+dash~=2.18.2
+plotly~=5.24.1
+dash-bootstrap-components~=1.6.0
+click~=8.1.8
+numpy~=2.0.2
+flask~=3.0.3
+spotipy~=2.25.0
+gunicorn
+dash_daq

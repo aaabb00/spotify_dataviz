@@ -1,0 +1,12 @@
+.my-modal-header .btn-close {
+     filter: invert(1);
+}
+
+.search-input::placeholder {
+    color: #D9DFC6;
+}
+
+.footer-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
